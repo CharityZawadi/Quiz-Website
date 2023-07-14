@@ -448,25 +448,28 @@ text-shadow: #131314;
     
     .home {
       left: 0;
+        height:auto;
     }
     
     .home-content {
       max-width: 100%;
       padding:0 20px;
+      text-align: center;
     }
     .home-content h1 {
     font-size: 26px;
-    text-align: center;
+    margin-bottom: 20px;
   }
     .home-content p {
     width: 100%;
     max-width: none;
-    text-align: center;
+    margin-bottom: 30px;
   }
     .home-content .start-btn {
     width: 160px;
     height: 45px;
     font-size: 14px;
+    margin: 0 auto;
   }
     .quiz-section .quiz-box {
     width: 90%;
