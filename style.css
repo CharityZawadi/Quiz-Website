@@ -442,35 +442,35 @@ text-shadow: #131314;
 }
 @media screen and (max-width: 768px) {
     .container {
-        display:block;
-      width: 100%;
+   display:block;
+   width: 100%;
+   margin-top: 50px;
+        
     }
     
     .home {
       left: 0;
         height:auto;
+        padding: 0 20px;
     }
     
     .home-content {
       max-width: 100%;
-      padding:0 20px;
       text-align: center;
-      margin-top: 50px;
+      margin-bottom: 30px;
     }
     .home-content h1 {
     font-size: 26px;
     margin-bottom: 20px;
   }
     .home-content p {
-    width: 100%;
-    max-width: none;
-    margin-bottom: 30px;
+    font-size: 16px;
   }
     .home-content .start-btn {
     width: 160px;
     height: 45px;
     font-size: 14px;
-    margin: 0 auto;
+    margin: 20px auto 0;
   }
     .quiz-section .quiz-box {
     width: 90%;
