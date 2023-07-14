@@ -455,6 +455,7 @@ text-shadow: #131314;
       max-width: 100%;
       padding:0 20px;
       text-align: center;
+      margin-top: 50px;
     }
     .home-content h1 {
     font-size: 26px;
@@ -481,9 +482,6 @@ text-shadow: #131314;
   .quiz-box .question-text {
     font-size: 18px;
   }
-    
-    .popup-info {
-      width: 400px;
-    }   
+       
 }
   
